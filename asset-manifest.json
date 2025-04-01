@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Brideshead/todo_List.git/static/css/main.412bd4a7.css",
+    "main.js": "/Brideshead/todo_List.git/static/js/main.8ddd4a92.js",
+    "static/media/pic1.jpg": "/Brideshead/todo_List.git/static/media/pic1.a0eab82b6d1a6417f6f8.jpg",
+    "static/media/110801_sun_icon.svg": "/Brideshead/todo_List.git/static/media/110801_sun_icon.90e7202167492af0de67dddac9532739.svg",
+    "index.html": "/Brideshead/todo_List.git/index.html",
+    "main.412bd4a7.css.map": "/Brideshead/todo_List.git/static/css/main.412bd4a7.css.map",
+    "main.8ddd4a92.js.map": "/Brideshead/todo_List.git/static/js/main.8ddd4a92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412bd4a7.css",
+    "static/js/main.8ddd4a92.js"
+  ]
+}
